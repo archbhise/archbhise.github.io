@@ -1,19 +1,13 @@
 ---
 layout: page
-title: About Pixyll
+title: Don't be a stranger
 permalink: /about/
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+I'm Archit Bhise and I work at [Wellframe](http://wellframe.com).
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+I'm interested in first principle approaches to solving problems and am a [big fan of people who disagree with me](http://blog.codinghorror.com/strong-opinions-weakly-held/). 
 
-Thanks to the following:
+I code a lot in Ruby, and have recently been dabbling with Haskell.
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Solarized](http://ethanschoonover.com/solarized)
+I graduated from [MIT](https://www.eecs.mit.edu/). I've previously worked with [Microsoft Research](http://research.microsoft.com/en-us/groups/tem/).
