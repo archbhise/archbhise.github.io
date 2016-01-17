@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "http://architbhise.com"
 
 # Google analytics
-google_analytics:
+google_analytics: "UA-72554720-1"
 
 # Optional features
 animated:           false
@@ -33,8 +33,8 @@ flattr_button:
 show_sharing_icons: false
 share_text: 'Share this post!'
 # Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
+share_facebook: true
+share_twitter: true
 share_googleplus: false
 share_linkedin: false
 share_digg: false
