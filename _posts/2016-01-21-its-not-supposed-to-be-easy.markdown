@@ -8,7 +8,7 @@ categories: about introduction quotes
 
 Hi! I’m Archit and I recently joined Redpoint Ventures as an early-stage investor.
 <br><br>
-Quick background on me:
+<b>Quick background on me:</b><br>
 I’ve been interested in the magic of technology for as long as I can remember. Fascinated by games, I learned to code when I was in elementary school and then proceeded to wreck havoc on my dad’s laptop. In college, I had the chance to hone my skills for good and ended up majoring in Electrical Engineering and Computer Science at MIT.
 <br><br>
 During college, I fell in love with the art of founding companies, though the exact idea I wanted to work on seemed elusive. I sought to tackle a problem in a space that looked complicated, messy and where technology could make a real difference. Ultimately, I had the pleasure of working with [Jon Gruber](https://en.wikipedia.org/wiki/Jonathan_Gruber_(economist)) who sparked my interest in healthcare. Soon, I found there were large problems in healthcare that could be solved by leveraging the power of technology. I used this experience to found Wellframe, to help people recover from complex diseases such as heart disease or organ transplants using artificial intelligence to re-engineer care delivery.
