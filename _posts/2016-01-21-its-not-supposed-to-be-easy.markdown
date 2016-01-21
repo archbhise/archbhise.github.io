@@ -14,15 +14,15 @@ I’ve been interested in the magic of technology for as long as I can remember.
 During college, I fell in love with the art of founding companies, though the exact idea I wanted to work on seemed elusive. I sought to tackle a problem in a space that looked complicated, messy and where technology could make a real difference. Ultimately, I had the pleasure of working with Jon Gruber who sparked my interest in healthcare. Soon, I found there were large problems in healthcare that could be solved by leveraging the power of technology. I used this experience to found Wellframe, to help people recover from complex diseases such as heart disease or organ transplants using artificial intelligence to re-engineer care delivery.
 <br><br>
 Step by step, I learned that building a great business is not just about the product, but rather several other details: working with an incredible team, getting the business model right, sorting out any operational kinks, aligning incentives, and more.
-
+<br><br>
 When I left Wellframe and was trying to figure out what do next, there was only one thing I knew for sure - I wanted to find a way to help incredible people who were using their skills to tackle big, hairy problems.
- 
+ <br><br>
 As I start my journey on the other side, I’d like to kick-off this blog with a small sentiment that Charlie Munger has often expressed about entrepreneurship and investing.
 
 <blockquote>“It’s not supposed to be easy”</blockquote>
  
-The best entrepreneurs often go on a tumultuous journey before their company becomes a success. Elon Musk almost lost his company before Tesla was able to go public. Tim Westergren from Pandora pitched over 300 investors before he received funding. Dustin Moskovitz put it aptly: "If by overnight success you mean staying up and coding all night, every night for six years straight, then it felt quite tiring and stressful.”
- 
+<p>The best entrepreneurs often go on a tumultuous journey before their company becomes a success. Elon Musk almost lost his company before Tesla was able to go public. Tim Westergren from Pandora pitched over 300 investors before he received funding. Dustin Moskovitz put it aptly: "If by overnight success you mean staying up and coding all night, every night for six years straight, then it felt quite tiring and stressful.”
+ <br><br>
 The same, to a lesser extent, is true for investors. You need to often be willing to look wrong for quite a few years before the market understands your thesis.
- 
-There are several hurdles you need to clear to build a great business. I plan to use this blog as a way to talk about what I learn and disseminate thoughts on those very challenges that will hopefully spark a good conversation for all readers. 
+<br><br>
+There are several hurdles you need to clear to build a great business. I plan to use this blog as a way to talk about what I learn and disseminate thoughts on those very challenges that will hopefully spark a good conversation for all readers.</p>
