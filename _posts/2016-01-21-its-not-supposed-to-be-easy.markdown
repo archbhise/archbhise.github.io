@@ -2,7 +2,7 @@
 layout:     post
 title:      It's not supposed to be easy
 date:       2016-01-21 13:19:00
-summary:    Introducing myself!
+summary:    VC @ Redpoint, Co-Founder of Wellframe. Interested in first principle approaches to solving problems.
 categories: about introduction quotes
 ---
 
