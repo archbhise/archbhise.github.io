@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "It's not supposed to be easy"
-date:       2016-01-21 13:19:00
+date:       2016-01-22 13:19:00
 summary:    VC @ Redpoint, Co-Founder of Wellframe. Interested in first principle approaches to solving problems.
 categories: about introduction quotes
 ---
@@ -13,10 +13,10 @@ I’ve been interested in the magic of technology for as long as I can remember.
 <br><br>
 During college, I fell in love with the art of founding companies, though the exact idea I wanted to work on seemed elusive. I sought to tackle a problem in a space that looked complicated, messy and where technology could make a real difference. Ultimately, I had the pleasure of working with [Jon Gruber](https://en.wikipedia.org/wiki/Jonathan_Gruber_(economist)) who sparked my interest in healthcare. Soon, I found there were large problems in healthcare that could be solved by leveraging the power of technology. I used this experience to found Wellframe, to help people recover from complex diseases such as heart disease or organ transplants using artificial intelligence to re-engineer care delivery.
 <br><br>
-Step by step, I learned that building a great business is not just about the product, but rather several other details: working with an incredible team, getting the business model right, sorting out any operational kinks, aligning incentives, and more.
+Step by step, I learned that building a great business is not just about the product, but rather several other details: working with a resolute team, getting the business model right, sorting out any operational kinks, aligning incentives, and more.
 <br><br>
-When I left Wellframe and was trying to figure out what do next, there was only one thing I knew for sure - I wanted to find a way to help incredible people who were using their skills to tackle big, hairy problems.
- <br><br>
+When I left Wellframe and was trying to figure out what do next, there was only one thing I knew for sure - I wanted to find a way to help tenacious founders who were using their skills to solve big, hairy problems. Redpoint was consistently known for tackling problems in tough spaces - having funded iconic companies Stripe, Netflix and Homeaway - and incubated products like Android.
+<br><br>
 As I start my journey on the other side, I’d like to kick-off this blog with a small sentiment that Charlie Munger has often expressed about entrepreneurship and investing.
 
 <blockquote>“It’s not supposed to be easy”</blockquote>
