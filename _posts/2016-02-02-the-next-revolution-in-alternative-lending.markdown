@@ -6,6 +6,14 @@ summary:    How there's room for better, more efficient players to reinvent the 
 categories: lending fintech marketing
 ---
 
+<style>
+img {
+    max-height:100%;
+    width:auto;
+}
+</style>
+
+
 <br><br>
 <p>The rise of alternative lenders has been nothing short of revolutionary for both personal and SMB finance. Instead of waiting at a neighborhood bank to be approved for a loan, consumers now have multiple options right at their fingertips. They can choose the rates they want, at the terms they want, with the experience they want. The days of the neighborhood bank are slowly but surely evaporating. 
 <br><br>
