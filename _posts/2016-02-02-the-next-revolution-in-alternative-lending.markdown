@@ -20,7 +20,7 @@ These lenders are not only better at offering the right options to consumers, bu
   <img src="/images/02-02-2016-image002.png" height="324.9" width="607.5"/>
 </figure>
 
-<p>Companies such as SoFi, AvantCredit, Earnest and OnDeck are now increasingly competing for the same customers, with new startups being funded everyday. At the same time, while LendingClub was one of the first pioneers in this space, websites like CreditKarma have made the barriers to entry for alternative lending minimal. 
+<p>Companies such as SoFi, AvantCredit, Earnest and Upstart are now increasingly competing for the same customers, with new startups being funded everyday. At the same time, while LendingClub was one of the first pioneers in this space, websites like CreditKarma have made the barriers to entry for alternative lending minimal. 
 <br><br>
 The question now becomes: how do you build a successful alternative lender that can compete in today’s world? 
 <br><br>
