@@ -9,8 +9,7 @@ categories: lending fintech marketing
 <style>
 .center-image
 {
-    margin: 0 auto;
-    display: block;
+	text-align: center;
 }
 </style>
 
