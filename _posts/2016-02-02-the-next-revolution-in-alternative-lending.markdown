@@ -5,14 +5,25 @@ date:       2016-02-02 11:54:00
 summary:    How there's room for better, more efficient players to reinvent the process and build new brands
 categories: lending fintech marketing
 ---
+
+<style>
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
+</style>
+
 <br><br>
 <p>The rise of alternative lenders has been nothing short of revolutionary for both personal and SMB finance. Instead of waiting at a neighborhood bank to be approved for a loan, consumers now have multiple options right at their fingertips. They can choose the rates they want, at the terms they want, with the experience they want. The days of the neighborhood bank are slowly but surely evaporating. 
 <br><br>
 These lenders are not only better at offering the right options to consumers, but can often run at the fraction of the operating costs of regular banks. For instance, see the operational costs of Lending Club vs. a typical bank below from Goldman Sachs' initiation of coverage report for Lending Club.</p>
 
+<div class="center-image">
 <figure>
   <img src="/images/02-02-2016-image001.png" width="470" height="376"/>
 </figure>
+</div>
 
 <p>Goldman estimates up to $11 billion in profits could shift from traditional banks to the alternative lending sector. The secret’s been out for a while: alternative lending will significantly impact how the future of personal lending looks. The venture world has responded in kind. According to <a href="http://techcrunch.com/2015/03/05/trillion-dollar-alternative-lending-industry-is-a-vc-gold-mine/">Christine Magee’s analysis</a>, the funding for lending-based startups has been up over the last 5 years from 2010-2015.</p> 
 
