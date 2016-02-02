@@ -9,16 +9,16 @@ categories: lending fintech marketing
 <br><br>
 <p>The rise of alternative lenders has been nothing short of revolutionary for both personal and SMB finance. Instead of waiting at a neighborhood bank to be approved for a loan, consumers now have multiple options right at their fingertips. They can choose the rates they want, at the terms they want, with the experience they want. The days of the neighborhood bank are slowly but surely evaporating. 
 <br><br>
-These lenders are not only better at offering the right options to consumers, but can often run at the fraction of the operating costs of regular banks. For instance, see the operational costs of Lending Club vs. a typical bank below.</p>
+These lenders are not only better at offering the right options to consumers, but can often run at the fraction of the operating costs of regular banks. For instance, see the operational costs of Lending Club vs. a typical bank below from Goldman Sachs' initiation of coverage report for Lending Club.</p>
 
 <figure>
   <a href="/images/02-01-2016-image001.png"><img src="/images/02-01-2016-image001.png" /></a>
 </figure>
 
-<p>Goldman Sachs estimates up to $11 billion in profits could shift from traditional banks to the alternative lending sector. The secret’s been out for a while: alternative lending will significantly impact how the future of personal lending looks. The venture world has responded in kind. According to Christine Magee’s analysis (http://techcrunch.com/2015/03/05/trillion-dollar-alternative-lending-industry-is-a-vc-gold-mine/#.hadckcn:oOjg), the funding for lending-based startups has been up over the last 5 years from 2010-2015.</p> 
+<p>Goldman estimates up to $11 billion in profits could shift from traditional banks to the alternative lending sector. The secret’s been out for a while: alternative lending will significantly impact how the future of personal lending looks. The venture world has responded in kind. According to <a href="http://techcrunch.com/2015/03/05/trillion-dollar-alternative-lending-industry-is-a-vc-gold-mine/">Christine Magee’s analysis</a>, the funding for lending-based startups has been up over the last 5 years from 2010-2015.</p> 
 
 <figure>
-  <a href="/images/02-01-2016-image002.png"><img src="/images/02-01-2016-image002.png" /></a>
+  <img src="/images/02-01-2016-image002.png" height="414"/>
 </figure>
 
 <p>Companies such as SoFi, AvantCredit, Earnest and OnDeck are now increasingly competing for the same customers, with new startups being funded everyday. At the same time, while LendingClub was one of the first pioneers in this space, websites like CreditKarma have made the barriers to entry for alternative lending minimal. 
@@ -29,10 +29,10 @@ The answer is simple, yet incredibly hard to implement: <b>building a great cust
 <br><br>
 As the business becomes a commodity, the relationship with the customer is what matters, and that starts with how you acquire a customer. In a world full of alternative lenders, the answer is to look more like a modern e-commerce play that cares about understanding its marketing channels, rather than assuming you are immune from traditional market forces due to the existence of slower incumbents. 
 <br><br>
-For example, from 2013 to 2014, a large portion of Lending Club’s Google traffic declined (51% to 39%), though you can point out it didn’t grow as fast, with the conclusion still being traditional SEO caps out. I suspect it is at much lower percentage now. At the same time, direct traffic grew from 10% to 21%. To succeed, Lending Club eventually ended up building a brand that differentiated enabled it to acquire customers faster and cheaper.</p>
+For example, the Goldman Sachs report shows that from 2013 to 2014, a large portion of Lending Club’s Google traffic declined (51% to 39%), though you can point out it didn’t grow as fast, with the conclusion still being traditional SEO caps out. I suspect it is at much lower percentage now. At the same time, direct traffic grew from 10% to 21%. To succeed, Lending Club eventually ended up building a brand that differentiated enabled it to acquire customers faster and cheaper.</p>
 
 <figure>
-  <a href="images/02-01-2016-image003.png"><img src="/images/02-01-2016-image003.png" /></a>
+  <img src="/images/02-01-2016-image003.png" height="414"/>
 </figure>
 
 <p>The moat for Lending Club and anybody else looking to succeed in alternative lending is the ability to acquire customers at a cheaper rate than anybody else. It is the only sustainable advantage a true business in this category can be built on. 
