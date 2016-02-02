@@ -11,7 +11,7 @@ categories: lending fintech marketing
 These lenders are not only better at offering the right options to consumers, but can often run at the fraction of the operating costs of regular banks. For instance, see the operational costs of Lending Club vs. a typical bank below from Goldman Sachs' initiation of coverage report for Lending Club.</p>
 
 <figure>
-  <img src="/images/02-01-2016-image001.png"/>
+  <img src="/images/02-01-2016-image001.png" align="middle"/>
 </figure>
 
 <p>Goldman estimates up to $11 billion in profits could shift from traditional banks to the alternative lending sector. The secret’s been out for a while: alternative lending will significantly impact how the future of personal lending looks. The venture world has responded in kind. According to <a href="http://techcrunch.com/2015/03/05/trillion-dollar-alternative-lending-industry-is-a-vc-gold-mine/">Christine Magee’s analysis</a>, the funding for lending-based startups has been up over the last 5 years from 2010-2015.</p> 
