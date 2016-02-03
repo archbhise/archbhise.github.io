@@ -16,7 +16,7 @@ categories: lending fintech marketing
 <br><br>
 <p>The rise of alternative lenders has been nothing short of revolutionary for both personal and SMB finance. Instead of waiting at a neighborhood bank to be approved for a loan, consumers now have multiple options right at their fingertips. They can choose the rates they want, at the terms they want, with the experience they want. The days of the neighborhood bank are slowly but surely evaporating. 
 <br><br>
-These lenders are not only better at offering the right options to consumers, but can often run at the fraction of the operating costs of regular banks. For instance, see the operational costs of Lending Club vs. a typical bank below from Goldman Sachs' initiation of coverage report.</p>
+These lenders are not only better at offering the right options to consumers, but can often run at a fraction of the operating costs of regular banks. For instance, see the operational costs of Lending Club vs. a typical bank below from Goldman Sachs' initiation of coverage report.</p>
 
 <div class="center-image">
 <figure>
