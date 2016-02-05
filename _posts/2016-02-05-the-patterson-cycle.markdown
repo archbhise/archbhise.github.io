@@ -13,13 +13,12 @@ categories: cycles markets
 }
 </style>
 
-<br><br>
 <p>
-Given the recent tumultuous market, I thought it would be a good time to write a post on one of my favorite topics.
+Given the recent rollercoaster in the public markets, I thought it would be a good time to write a post on one of my favorite topics.
 <br><br>
 Every market in the world has cycles. From Wall Street to agricultural prices, there are times when demand is ample and supply is low, and when the opposite rings true as well, and the world moves on.
 <br><br>
-In the S&P 500, you can see large peaks and troughs every few years, as history repeats itself.</p>
+For instance, in the S&P 500, you can see large peaks and troughs every few years, as history repeats itself.</p>
 
 <div class="center-image">
 <figure>
@@ -27,7 +26,7 @@ In the S&P 500, you can see large peaks and troughs every few years, as history 
 </figure>
 </div>
 
-<p>Venture investing has it’s own cycle as well: the Patterson cycle. Coined by the legendary venture capitalist, Arthur Patterson, he explains it roughly as: "The venture business has a pattern of roughly eight years of growth followed by six years of retrenchment”.
+<p>Venture investing has it’s very own as well: the Patterson cycle. Coined by the legendary venture capitalist, Arthur Patterson, he explains it roughly as: "The venture business has a pattern of roughly eight years of growth followed by six years of retrenchment”.
 <br><br>
 Given the steady growth in venture funding since 2010, it’s unclear if we are past the peak or this is just a blip. It's evident from the recent Dow Jones Q4 VC report that venture funding has definitely decreased for the past few quarters in a row.</p>
 
@@ -37,7 +36,10 @@ Given the steady growth in venture funding since 2010, it’s unclear if we are 
 </figure>
 </div>
 
-<p>What I do know is, times are getting tougher. Fundraising has gotten harder for startups, and the metrics needed to clear the bar for an investment are definitely higher.
+<p>
+We might be getting ready for a large contraction in the venture business. Hedge funds and private equity shops who have been heavy investors on the growth side might be ready to get out.
+<br><br>
+What I do know for sure is, times are getting tougher. Fundraising has gotten harder for startups, and the metrics needed to clear the bar for an investment are definitely higher.
 <br><br>
 What this means is having a healthy respect for your burn rate, not postponing tough decisions and watching the wallet in the right places. The era of growth at the expense of operational excellence is coming to an end.
 <br><br>
