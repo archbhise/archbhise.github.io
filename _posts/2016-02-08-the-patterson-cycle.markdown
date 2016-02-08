@@ -26,7 +26,7 @@ For instance, in the S&P 500, you can see large peaks and troughs every few year
 </figure>
 </div>
 
-<p>Venture investing has it’s very own as well: the Patterson cycle. Coined by the legendary venture capitalist, Arthur Patterson, he explains it roughly as: "The venture business has a pattern of roughly eight years of growth followed by six years of retrenchment.”
+<p>Venture investing has its very own as well: the Patterson cycle. Coined by the legendary venture capitalist, Arthur Patterson, he explains it roughly as: "The venture business has a pattern of roughly eight years of growth followed by six years of retrenchment.”
 <br><br>
 Given the steady growth in venture funding since 2010, it’s unclear if we are past the peak or this is just a blip. It's evident from the recent Dow Jones Q4 VC report that venture funding has definitely decreased for the past few quarters in a row.</p>
 
