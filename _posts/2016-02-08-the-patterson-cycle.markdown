@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      The Patterson Cycle
-date:       2016-02-05 12:18:00
+date:       2016-02-08 8:33:00
 summary:    Venture capital's very own investment cycle
 categories: cycles markets
 ---
@@ -22,7 +22,7 @@ For instance, in the S&P 500, you can see large peaks and troughs every few year
 
 <div class="center-image">
 <figure>
-  <img src="/images/02-05-2016-image001.png" width="328" height="213"/>
+  <img src="/images/02-08-2016-image001.png" width="328" height="213"/>
 </figure>
 </div>
 
@@ -32,7 +32,7 @@ Given the steady growth in venture funding since 2010, it’s unclear if we are 
 
 <div class="center-image">
 <figure>
-  <img src="/images/02-05-2016-image002.png" width="271" height="288"/>
+  <img src="/images/02-08-2016-image002.png" width="271" height="288"/>
 </figure>
 </div>
 
