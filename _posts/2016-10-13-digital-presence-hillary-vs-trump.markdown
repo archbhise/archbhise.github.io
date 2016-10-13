@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Hillary vs. Trump: going digital
+title:      Hillary vs. Trump - going digital
 date:       2016-10-13 12:33:00
 summary:    Comparing Hillary Clinton's and Donald Trump's digital presence during the 2016 election cycle
 categories: ads seo organic spend
