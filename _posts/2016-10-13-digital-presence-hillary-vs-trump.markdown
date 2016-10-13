@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Hillary vs. Trump: all digital
-date:       2016-10-14 12:33:00
+date:       2016-10-13 12:33:00
 summary:    Comparing Hillary Clinton's and Donald Trump's digital presence during the 2016 election cycle
 categories: ads seo organic spend
 ---
