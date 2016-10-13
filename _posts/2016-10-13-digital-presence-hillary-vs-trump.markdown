@@ -60,7 +60,8 @@ Without going too deep into analyzing their PPC strategy, keywords and uniques f
 <ul>
 <li>"hillary clinton" has a search volume of 1.7-1.8M, with CPCs hovering around $2</li>
 <li>"donald trump" has a search volume of 3.2-3.4M, with CPCs hovering around $1.10-1.40</li>
-</ul>
+</ul></p>
+<p>
 <br><br>
 This is actually pretty interesting, given that though Donald Trump’s website has a slightly lower number of sessions, the overall search volume for him is about twice that of Hillary's.
 <br><br>
