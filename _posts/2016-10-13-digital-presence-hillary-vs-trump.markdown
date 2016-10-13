@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Hillary vs. Trump going digital
+title:      Hillary vs. Trump: going digital
 date:       2016-10-13 12:33:00
 summary:    Comparing Hillary Clinton's and Donald Trump's digital presence during the 2016 election cycle
 categories: ads seo organic spend
@@ -14,7 +14,7 @@ categories: ads seo organic spend
 </style>
 
 <p>
-Digital presence has played a large part in the election season ever since Obama’s 2008 presidential campaign. Obama raised $500M online in 2008 and $690M online in 2012 [Source](http://swampland.time.com/2012/11/15/exclusive-obamas-2012-digital-fundraising-outperformed-2008/). Both grassroots fundraising and the way the Obama campaign optimized ad spend were seen as pivotal to winning the election. Startups like Civis Analytics which spun out of his campaign have gone on to help several Fortune 500 companies with their media buying techniques.
+Digital presence has played a large part in the election season ever since Obama’s 2008 presidential campaign. Obama raised $500M online in 2008 and $690M online in 2012 [<a href="http://swampland.time.com/2012/11/15/exclusive-obamas-2012-digital-fundraising-outperformed-2008/">Source</a>]. Both grassroots fundraising and the way the Obama campaign optimized ad spend were seen as pivotal to winning the election. Startups like Civis Analytics which spun out of his campaign have gone on to help several Fortune 500 companies with their media buying techniques.
 <br><br>
 Let’s take a quick look at how this presidential race is doing in terms of digital presence and media buying!
 <br><br>
@@ -26,13 +26,13 @@ As of Sept 30th, Hillary’s campaign website stands at 14M total sessions a mon
 
 <div class="center-image">
 <figure>
-  <img src="/images/10-13-2016-image001.png" width="398" height="196"/>
+  <img src="/images/10-13-2016-image001.png" width="600" height="300"/>
 </figure>
 </div>
 
 <div class="center-image">
 <figure>
-  <img src="/images/10-13-2016-image002.png" width="398" height="196"/>
+  <img src="/images/10-13-2016-image002.png" width="600" height="300"/>
 </figure>
 </div>
 
@@ -42,13 +42,13 @@ Both have had their Alexa rank grow as expected, quickly rising to the top, with
 
 <div class="center-image">
 <figure>
-  <img src="/images/10-13-2016-image003.png" width="400" height="200"/>
+  <img src="/images/10-13-2016-image003.png" width="600" height="300"/>
 </figure>
 </div>
 
 <div class="center-image">
 <figure>
-  <img src="/images/10-13-2016-image004.png" width="400" height="200"/>
+  <img src="/images/10-13-2016-image004.png" width="600" height="300"/>
 </figure>
 </div>
 
@@ -57,8 +57,10 @@ Both have had their Alexa rank grow as expected, quickly rising to the top, with
 <br><br>
 Without going too deep into analyzing their PPC strategy, keywords and uniques for Trump and Hillary for just their direct phrases (“donald trump” and “hillary clinton”) are hovering as follows on Google:
 <br><br>
-* "hillary clinton" has a search volume of 1.7-1.8M, with CPCs hovering around $2
-* "donald trump" has a search volume of 3.2-3.4M, with CPCs hovering around $1.10-1.40
+<ul>
+<li>"hillary clinton" has a search volume of 1.7-1.8M, with CPCs hovering around $2</li>
+<li>"donald trump" has a search volume of 3.2-3.4M, with CPCs hovering around $1.10-1.40</li>
+</ul>
 <br><br>
 This is actually pretty interesting, given that though Donald Trump’s website has a slightly lower number of sessions, the overall search volume for him is about twice that of Hillary's.
 <br><br>
@@ -66,7 +68,7 @@ Both are on the lower end of CPCs on Google. Hillary’s CPC indicates some spen
 
 <div class="center-image">
 <figure>
-  <img src="/images/10-13-2016-image005.png" width="386" height="204"/>
+  <img src="/images/10-13-2016-image005.png" width="681" height="174"/>
 </figure>
 </div>
 
