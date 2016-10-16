@@ -11,6 +11,12 @@ categories: ads seo organic spend
 {
 	text-align: center;
 }
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 </style>
 
 <p>
