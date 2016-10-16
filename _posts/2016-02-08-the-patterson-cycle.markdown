@@ -28,7 +28,7 @@ For instance, in the S&P 500, you can see large peaks and troughs every few year
 
 <div class="center-image">
 <figure>
-  <img src="/images/02-08-2016-image001.png" width="328" height="213"/>
+  <img src="/images/02-08-2016-image001.png"/>
 </figure>
 </div>
 
@@ -38,7 +38,7 @@ Given the steady growth in venture funding since 2010, it’s unclear if we are 
 
 <div class="center-image">
 <figure>
-  <img src="/images/02-08-2016-image002.png" width="271" height="288"/>
+  <img src="/images/02-08-2016-image002.png"/>
 </figure>
 </div>
 
