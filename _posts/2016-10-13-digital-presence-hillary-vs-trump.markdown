@@ -32,13 +32,13 @@ As of Sept 30th, Hillary’s campaign website stands at 14M total sessions a mon
 
 <div class="center-image">
 <figure>
-  <img src="/images/10-13-2016-image001.png" width="600" height="300"/>
+  <img src="/images/10-13-2016-image001.png"/>
 </figure>
 </div>
 
 <div class="center-image">
 <figure>
-  <img src="/images/10-13-2016-image002.png" width="600" height="300"/>
+  <img src="/images/10-13-2016-image002.png"/>
 </figure>
 </div>
 
@@ -48,13 +48,13 @@ Both have had their Alexa rank grow as expected, quickly rising to the top, with
 
 <div class="center-image">
 <figure>
-  <img src="/images/10-13-2016-image003.png" width="600" height="300"/>
+  <img src="/images/10-13-2016-image003.png"/>
 </figure>
 </div>
 
 <div class="center-image">
 <figure>
-  <img src="/images/10-13-2016-image004.png" width="600" height="300"/>
+  <img src="/images/10-13-2016-image004.png"/>
 </figure>
 </div>
 
@@ -75,7 +75,7 @@ Both are on the lower end of CPCs on Google. Hillary’s CPC indicates some spen
 
 <div class="center-image">
 <figure>
-  <img src="/images/10-13-2016-image005.png" width="681" height="174"/>
+  <img src="/images/10-13-2016-image005.png"/>
 </figure>
 </div>
 

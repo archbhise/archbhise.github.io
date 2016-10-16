@@ -11,6 +11,12 @@ categories: cycles markets
 {
 	text-align: center;
 }
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 </style>
 
 <p>
