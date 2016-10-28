@@ -39,6 +39,6 @@ Realistically, the Internet has not been good for everyone. Newspapers have been
 <p>
 Given that, there's a chance native advertising for most websites might not hold up as the savior as it’s supposed to be. What if it only delays the inevitable, rather than actually allowing them to compete in the new world order of content?
 <br><br>
-I’ll leave you, my readers, with a better question to ask: should newspapers have disrupted themselves a long time ago by making themselves a Buzzfeed or Huffingpost or better yet become a <a href="http://www.ghco.com/">holding company?</a>
+I’ll leave you, my readers, with a better question to ask: should newspapers have disrupted themselves a long time ago by making themselves a Buzzfeed or Huffingtonpost or better yet become a <a href="http://www.ghco.com/">holding company?</a>
 </p>
 
